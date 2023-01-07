@@ -1,0 +1,20 @@
+ .qq{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+
+div#p2{
+    background-image: linear-gradient(to bottom, yellow, red);
+}
+div#p3{
+    background-image: url('imagens/pattern003.png');
+}
+body{
+    background-image: url('imagens/wallpaper001.jpg');
+    display: ;
+}
