@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pseudo classes</title>
+    <style>
+        #mm{
+            background-color: red;
+            width: 200px;
+           
+        }
+      
+        
+        #mm>p{
+            display: none;
+            color: blueviolet;
+        }
+        #mm:hover>p{
+            display: block;
+            cursor: pointer;
+            background-color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="mm">OLá, eu 
+        <p>
+            Achoooo
+        </p>
+    </div>
+
+</body>
+</html>

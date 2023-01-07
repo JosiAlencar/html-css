@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+
+#bloco1{
+    background-color: rgb(133, 110, 133);
+}
+header>h1{
+    font-family: 'Courgette', cursive;
+    font-weight: bolder;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 20px;
+    font-size: 50px;
+}
+header>p{
+    text-align: center;
+    font-family: serif;
+    font-style: italic;
+}
+#Summary{
+    font-family: 'Courgette', cursive;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    margin-left: 260px;
+    margin-top: 90px;
+    width: 130px;
+
+}
+#image{
+    margin-left: 282px;
+    margin-top: 10px;
+    }
+#subtexto{
+    background-color: white;
+    font-family: 'Courgette', cursive;
+    margin:45px 836px 10px 190px;
+    text-indent: 60px;
+    padding: 10px 10px 10px 10px;
+    text-align: justify;
+}
+#exp{
+    margin: 10px 10px 10px 1000px;
+    padding: 10px 10px 10px 10px;
+    width: 10px;
+  
+}
