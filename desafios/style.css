@@ -1,0 +1,79 @@
+@charset "UTF-8";
+@font-face{
+    font-family: Cordel;
+    src: url(PermanentMarker-Regular.ttf) format(truetype);
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: black;
+    width: 100%;  
+    
+}
+header>h1{
+    color: white;
+    font-family: Cordel, Geneva, Verdana, sans-serif;
+    font-size: 2.5em;
+    padding: 20px;  
+    align-items: center;
+    justify-items: center;
+}
+header p{
+    color: white;
+    padding-bottom: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Milton{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
+}
+#p1p{
+    background-color: rgb(255, 255, 255);
+    width: 217px;
+    padding: 30px;
+    padding-left: 10px;
+    font-family: Arial, Geneva, Verdana, serif;
+    font-weight: bolder;
+    line-height: 50px;
+    font-size: 1.1em;
+   
+    max-width: 100%;
+}
+#container{
+    background-color: rgb(0, 255, 81);
+   background-image: url(background001.jpg);
+   height: 500px;
+   width: auto;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   position: relative;
+   background-attachment: scroll;
+
+}
+#conteudo{
+    background-color: rgba(0, 0, 0, 0.606);
+    color: white;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 10%;
+    left: 20px;
+    
+}
+#Pcont{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+    font-weight: bold;
+    padding-left: 30px;
+    
+}
